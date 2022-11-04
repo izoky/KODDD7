@@ -11771,8 +11771,8 @@ if text and not text:match("%a") and Redis:get(black..msg_chat_id..msg.sender.us
 end
 ---برج---
 -----معاني-الاسماء---
-if text and text:match("^معني (.*)$") then
-local TextName = text:match("^معني (.*)$")
+if text and text:match("^Ejeije (.*)$") then
+local TextName = text:match("^5386549632 (.*)$")
 as = http.request('https://167.71.14.2/Mean.php?Name='..URL.escape(TextName)..'')
 mn = JSON.decode(as)
 k = mn.meaning
