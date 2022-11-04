@@ -2899,7 +2899,7 @@ end
 end   
 Get_Json = Get_Json..'],'
 end
-Get_Json = Get_Json..'"Dev":"V_P_E"}'
+Get_Json = Get_Json..'"Dev":"R3RR7"}'
 end
 Get_Json = Get_Json..'}}'
 local File = io.open('./'..UserBot..'.json', "w")
@@ -11791,28 +11791,28 @@ end
 send(msg_chat_id,msg_id,t,"md",true) 
 end 
 
-if text == 'جاك' or text == 'خالد'  then
+if text == 'صوف' or text == 'صوف'  then
 local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = ' 🖤 𝑱𝑨𝑪𝑲 🖤', url = 't.me/V_P_E'}, 
+{text = ' -', url = 't.me/R3RR3'}, 
 },
 }
 }
-return send(msg_chat_id,msg_id,"[🖤 𝑱𝑨𝑪𝑲 🖤](tg://user?id=5386549632)","md",true, false, false, true, reply_markup)
+return send(msg_chat_id,msg_id,"[🖤 صوف 🖤](tg://user?id=5386549632)","md",true, false, false, true, reply_markup)
 end
 
-if text == 'ابو المجد' then
+if text == 'R3RR7' then
 local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = ' 𝐴𝐵𝑂 𝐴𝐿𝑀𝐴𝐺𝐷', url = 't.me/MO_ABO_el'}, 
+{text = ' 𝐴𝐵𝑂 R3RR7', url = 't.me/R3RR7'}, 
 },
 }
 }
-return send(msg_chat_id,msg_id,"[ ᵗᵐ^𝒅𝒂𝒅.✹⃝⁦꙰🇲🇰𝒂𝒃𝒐.𝒂𝒍𝒎𝒂𝒈𝒅. 𝒆𝒍𝒎𝒆𝒍𝒐𝒌𒀭⸙ꠋꠋꠋꠋꠋꠋꠋꠋ](tg://user?id=5298947457)","md",true, false, false, true, reply_markup)
+return send(msg_chat_id,msg_id,"[ R3RR7⸙ꠋꠋꠋꠋꠋꠋꠋꠋ](tg://user?id=5298947457)","md",true, false, false, true, reply_markup)
 end
 
 if text == "تفعيل صورتي" or text == "تفعيل الصوره" then
@@ -15216,22 +15216,22 @@ send(msg.chat_id,msg.id,"• للمبرمج جاك فقط")
 end
 end
 if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or text == 'source' then
-photo = "https://t.me/photojack14366/58"
+photo = "https://t.me/QQQLO/219"
 local T =[[
 ــــــــــــــــــــــ-ـــــــــــــــــــــ
  سورس بلاك
 ــــــــــــــــــــــ-ـــــــــــــــــــــ
-- 𝐷𝐸𝑉 >> [˹ 𝐽𝐴𝐶𝐾 .](t.me/PHP57)
+- 𝐷𝐸𝑉 >> [˹ صوف .](t.me/R3RR7)
 ــــــــــــــــــــــ-ـــــــــــــــــــــ 
-- 𝐷𝐸𝑉 >> [˹ 𝐴𝐵𝑂 𝐴𝐿𝑀𝐴𝐺𝐷 .](t.me/MO_ABO_el)
+- 𝐷𝐸𝑉 >> [˹ السورس .](t.me/R3RR7)
 ــــــــــــــــــــــ-ـــــــــــــــــــــ 
--ـــ- >> [˹ 𝑆𝑂𝑈𝑅𝐶𝐸 𝐵𝐿𝐴𝐶𝐾 .](t.me/R3RR7)
+-ـــ- >> [˹ قناة المطور  .](t.me/R3RR7)
 ــــــــــــــــــــــ-ـــــــــــــــــــــ 
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = '🖤 𝑱𝑨𝑪𝑲 🖤', url = "https://t.me/V_P_E"},
+{text = '🖤 صوف 🖤', url = "https://t.me/R2RR7"},
 },
 {
 {text = '𝑆𝑂𝑈𝑅𝐶𝐸 𝐵𝐿𝐴𝐶𝐾 ', url = "https://t.me/R3RR7"}
@@ -17474,7 +17474,7 @@ if data and data.luatele and data.luatele == "updateNewInlineQuery" then
 
 local Text = data.query 
 if Text == '' then
-local input_message_content = {message_text = " ٭ اهلا بك\n ٭ لارسال الهمسه اكتب يوزر البوت + الهمسه + يوزر العضو اللي هتعمله همسه \n ٭ مثال  @M_77bot هلا @V_P_E"}	
+local input_message_content = {message_text = " ٭ اهلا بك\n ٭ لارسال الهمسه اكتب يوزر البوت + الهمسه + يوزر العضو اللي هتعمله همسه \n ٭ مثال  @M_77bot هلا @R2RR7"}	
 local resuult = {{
 type = 'article',
 id = math.random(1,64),
